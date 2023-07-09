@@ -7,7 +7,7 @@
   
 Currently Studying for my BS in Data Management and Data Analytics at Western Governors University
 
-After being laid-off in April, I decided to expedite my learning towards gaining a Data relate role. Previously, I have worked at:
+After being laid-off in April, I decided to expedite my learning towards gaining a Data related role. Previously, I have worked at:
 <ul>
   <li>Amplitude Analytics</li>
   <li>Epicor Software</li>
