@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Kamanzi</h1>
+<h1 align="center">Hi, I'm Kamanzi.</h1>
 <h3 align="center">A passionate Support Engineer from New York working to become a Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munroek&label=Profile%20views&color=0e75b6&style=flat" alt="munroek" /> </p>
 
-- 🌱 I’m currently learning **Pandas, NumPy, Matplotlib**
+🌱 I’m currently learning **Pandas, NumPy, Matplotlib**
+  
+Currently Studying for my BS in Data Management and Data Analytics at Western Governors University
 
+After being laid-off in April, I decided to expedite my learning towards gaining a Data relate role. Previously, I have worked at:
+<ul>
+  <li>Amplitude Analytics</li>
+  <li>Epicor Software</li>
+  <li>Endosoft</li>
+  <li>Apple</li>
+</ul>
 - 📫 How to reach me **kmunroe@mailfence.com**
 
 <h3 align="left">Connect with me:</h3>
