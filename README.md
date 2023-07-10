@@ -16,7 +16,7 @@ After being laid-off in April, I decided to expedite my learning towards gaining
 </ul>
 - 📫 How to reach me **kmunroe@mailfence.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me and let me know this is where you came across my profile!:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamanzi-rama-munroe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamanzi-rama-munroe/" height="30" width="40" /></a>
 </p>
