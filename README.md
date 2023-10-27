@@ -5,16 +5,17 @@
 
 🌱 I’m currently learning **Pandas, NumPy, Matplotlib**
   
-Currently Studying for my BS in Data Management and Data Analytics at Western Governors University
+Currently learning all of the great things we can do with Data Science.
 
-After being laid-off in April, I decided to expedite my learning towards new skills. Here, I will be uploading my projects learned along the way. Previously, I have worked at:
+Here, I will be uploading my projects learned along the way. Previously, I have worked at:
 <ul>
+  <li>Litmus</li>li
   <li>Amplitude Analytics</li>
   <li>Epicor Software</li>
   <li>Endosoft</li>
   <li>Apple</li>
 </ul>
-- 📫 How to reach me **kmunroe@mailfence.com**
+- 📫 How to reach me **kamanzimunroe@protonmail.com**
 
 <h3 align="left">Connect with me and let me know this is where you came across my profile!:</h3>
 <p align="left">
