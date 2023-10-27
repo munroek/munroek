@@ -9,7 +9,7 @@ Currently learning all of the great things we can do with Data Science.
 
 Here, I will be uploading my projects learned along the way. Previously, I have worked at:
 <ul>
-  <li>Litmus</li>li
+  <li>Litmus</li>
   <li>Amplitude Analytics</li>
   <li>Epicor Software</li>
   <li>Endosoft</li>
