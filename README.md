@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Kamanzi.</h1>
-<h3 align="center">A passionate Support Engineer from New York working to become a Data Scientist</h3>
+<h3 align="center">A passionate Support Engineer from New York working to become a Cybersecurity Professional.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munroek&label=Profile%20views&color=0e75b6&style=flat" alt="munroek" /> </p>
 
-🌱 I’m currently learning **Pandas, NumPy, Matplotlib**
-  
-Currently learning all of the great things we can do with Data Science.
+🌱 I’m currently learning **Obtaining several certs**
 
+  
 Here, I will be uploading my projects learned along the way. Previously, I have worked at:
 <ul>
   <li>Litmus</li>
