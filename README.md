@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munroek&label=Profile%20views&color=0e75b6&style=flat" alt="munroek" /> </p>
 
-🌱 I’m currently learning **Obtaining several certs**
+🌱 I’m currently **Obtaining several certs**
 
   
 Here, I will be uploading my projects learned along the way. Previously, I have worked at:
