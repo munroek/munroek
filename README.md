@@ -18,7 +18,7 @@ Here, I will be uploading my projects learned along the way. Previously, I have 
 
 <h3 align="left">Connect with me and let me know this is where you came across my profile!:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamanzi-rama-munroe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamanzi-rama-munroe/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/krmunroe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamanzi-rama-munroe/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
